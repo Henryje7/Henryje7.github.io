@@ -1,15 +1,15 @@
 .pokemon{
-    color: orange;
+    color: pink;
 }
 .box{
-    height: 400px;
+    height: 200px;
     width: 800px;
-    padding: 10px;
+    padding: 25px;
     margin: 50px;
     border: 20px solid pink;
 }
 h1{
-    color: green;
+    color: purple;
 }
 h2{
     color: pink;
