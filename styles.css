@@ -1,6 +1,13 @@
 .pokemon{
     color: orange;
 }
+.box{
+    height: 400px;
+    width: 800px;
+    padding: 10px;
+    margin: 50px;
+    border: 20px solid pink;
+}
 h1{
     color: purple;
 }
