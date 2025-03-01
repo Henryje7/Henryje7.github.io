@@ -22,6 +22,7 @@ li {
   
 li a{
     font-family: "JetBrainsMono";
+    font-size: 20;
     display: block;
     color: white;
     text-align: center;
