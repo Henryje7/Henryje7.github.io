@@ -60,11 +60,11 @@ img.large {
 }
 div.bar {
     background-color: #9F9F9F;
-    width: 600px;
-    padding: 10px;
+    width: 1200px;
+    margin-left: 200px;
+    padding: 20px;
     margin-top: 5px;
  	margin-bottom: 80px;
-    margin-left: 80px;
   }
 div.sidebyside {
     width:100%;
