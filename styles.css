@@ -88,7 +88,7 @@ div.sidebyside div p{
     color: white;
     font-size: 20px;
 }
-div.sidebyside, div, h2, div.SignUp {
+div.sidebyside div div.SignUp {
     color: white;
     background-color: black;
     border: 50px solid black;
