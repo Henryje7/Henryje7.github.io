@@ -69,6 +69,7 @@ div.bar {
 div.sidebyside {
     width:100%;
     overflow:auto;
+    margin-left: 10%;
   }
 div.sidebyside div {
     width:50%;  
