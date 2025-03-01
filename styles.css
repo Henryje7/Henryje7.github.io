@@ -69,11 +69,12 @@ div.bar {
 div.sidebyside {
     width:100%;
     overflow:auto;
-    margin-left: 10%;
+    
   }
 div.sidebyside div {
     width:50%;  
     float:left;
+    margin-left: 10%;
   }
 div.sidebyside div h2{
     font-family: 'DotGothic16';
