@@ -48,3 +48,20 @@ img, .large {
     max-height: 100%;
     max-width: 100%;
 }
+.bar {
+    background-color: 9F9F9F;
+    width: 1399px;
+    padding: 10px;
+    margin-top: 5px;
+ 	margin-bottom: 80px;
+ 	margin-right: 20px;
+ 	margin-left: 20px;
+  }
+div.sidebyside {
+    width:100%;
+    overflow:auto;
+  }
+div.sidebyside div {
+    width:50%;  
+    float:left;
+  }
