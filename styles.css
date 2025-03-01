@@ -76,14 +76,14 @@ div.sidebyside div {
   }
 div.sidebyside div h2{
     font-family: "dotgothic";
-    font-size: 20px;
+    font-size: 40px;
     color: white;
     border-left: 5px black;
     padding-left: 10px;
 }
 div.sidebyside div p{
     color: white;
-    font-size: 20px;
+    font-size: 30px;
 }
 div.sidebyside div div.SignUp {
     color: white;
