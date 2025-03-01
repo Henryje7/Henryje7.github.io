@@ -4,6 +4,17 @@
     font-weight: normal;
     font-style: normal;
   }
+
+  @font-face {
+    font-family: 'dotgothic';
+    src: url('dotgothic16-0-400-normal.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+
+
+  
 body{
     background-color: #212121;
 }
@@ -66,13 +77,14 @@ div.sidebyside div {
     width:50%;  
     float:left;
   }
-div.sidebyside, div, h2 {
+div.sidebyside div h2{
+    font-family: "dotgothic";
     font-size: 80px;
     color: white;
     border-left: 5px black;
     padding-left: 10px;
 }
-div.sidebyside, div, h2  p{
+div.sidebyside div p{
     color: white;
     font-size: 40px;
 }
