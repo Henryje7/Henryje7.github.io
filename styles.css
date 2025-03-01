@@ -35,20 +35,20 @@ li a:hover {
     background-color: #1a1a1a;
   }
 
-.large{
+img.large{
     height: 100%;
     margin: 0;
     padding: 0;
 }
 
-img, .large {
+img.large {
     padding: 0;
     display: block;
     margin: 0 auto;
     max-height: 100%;
     max-width: 100%;
 }
-.bar {
+div.bar {
     background-color: #9F9F9F;
     width: 1500px;
     padding: 10px;
@@ -66,17 +66,17 @@ div.sidebyside div {
     width:50%;  
     float:left;
   }
-  h2 {
+div.sidebyside, div, h2 {
     font-size: 30px;
     color: white;
     border-left: 5px black;
     padding-left: 10px;
 }
-h2, p{
+div.sidebyside, div, h2  p{
     color: white;
     font-size: 15px;
 }
-.SignUp {
+div.sidebyside, div, h2, div.SignUp {
     background-color: black;
     width: 200px;
     height: 50px;
