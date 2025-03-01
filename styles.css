@@ -65,3 +65,7 @@ div.sidebyside div {
     width:50%;  
     float:left;
   }
+  h2 {
+    border-left: 5px black;
+    padding-left: 10px;
+}
