@@ -79,7 +79,8 @@ div.sidebyside, div, h2  p{
 div.sidebyside, div, h2, div.SignUp {
     color: white;
     background-color: black;
-    width: 200px;
+    border: 50px solid black;
+    width: 20px;
     height: 50px;
     margin-top: 30px;
     margin-left: 8px;
