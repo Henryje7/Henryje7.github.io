@@ -84,6 +84,7 @@ div.sidebyside div h2{
 }
 div.sidebyside div p{
     color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
     font-size: 30px;
 }
 div.sidebyside div div.SignUp {
