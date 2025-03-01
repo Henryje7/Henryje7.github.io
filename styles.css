@@ -87,10 +87,9 @@ div.sidebyside div p{
 }
 div.sidebyside div div.SignUp {
     color: white;
+    font-size: large;
     background-color: black;
     border: 50px solid black;
     width: 80px;
     height: 15px;
-   
- 	
   }
