@@ -72,9 +72,9 @@ div.sidebyside {
     
   }
 div.sidebyside div {
-    width:50%;  
+    width:45%;  
     float:left;
-    margin-left: 10%;
+    margin-left: 5%;
   }
 div.sidebyside div h2{
     font-family: 'DotGothic16';
