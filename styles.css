@@ -4,52 +4,32 @@
     font-weight: normal;
     font-style: normal;
   }
-
-
-.general{
-    background-color: #212121;
-}
-.box{
-    height: 200px;
-    width: 800px;
-    padding: 25px;
-    margin: 50px;
-    border: 20px solid pink;
-}
 body{
     background-color: #212121;
 }
-h1{
-    
-}
-h2{
-    
-}
-html{
-    
-}
+
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: #383838;
-  }
+}
   
-  li {
+li {
     float: left;
-  }
+}
   
-  li a {
+li a{
     font-family: "JetBrainsMono";
     display: block;
     color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-  }
+}
   
   /* Change the link color to #111 (black) on hover */
-  li a:hover {
+li a:hover {
     background-color: #1a1a1a;
   }
